@@ -1,0 +1,40 @@
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csprojAssemblyReference.cache
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Kalkulator.resources
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Properties.Resources.resources
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.GenerateResource.cache
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.CoreCompileInputs.cache
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe.config
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\source\repos\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe.config
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csprojAssemblyReference.cache
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Kalkulator.resources
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Properties.Resources.resources
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.GenerateResource.cache
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.CoreCompileInputs.cache
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Dropbox\WSB\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe.config
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csprojAssemblyReference.cache
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Kalkulator.resources
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Properties.Resources.resources
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.GenerateResource.cache
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.CoreCompileInputs.cache
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Desktop\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe.config
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\bin\Debug\Kalkulator_V2.pdb
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csprojAssemblyReference.cache
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Kalkulator.resources
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.Properties.Resources.resources
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.GenerateResource.cache
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.csproj.CoreCompileInputs.cache
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.exe
+C:\Users\MICHAŁ\Desktop\Nowy folder (3)\Kalkulator_V2\Kalkulator_V2\obj\Debug\Kalkulator_V2.pdb
