@@ -11,7 +11,7 @@
 
 ## Informacje ogólne
 - Celem projektu było stworzenie prostego kalkulatora w postaci aplikacji Windows (Windows Forms Application) oraz nauka języka C#.
-- Był to projekt zaliczeniowy z przedmiotu z programowania obiektowego.
+- Był to projekt zaliczeniowy z programowania obiektowego.
 
 
 ## Użyte technologie
