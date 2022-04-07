@@ -1,4 +1,4 @@
-# Farm
+# Kalkulator
 > Projekt kalkulatora napisanego w języku C#, który był pierwszym projektem stworzonym na studiach informatycznych. Oprócz podstawowych operacji matematycznych (dodawanie, odejmowanie, mnożenie, dzielenie) kalkulator posiada funkcje obliczania procentów i potęgowania.
 
 ## Spis treści
@@ -17,6 +17,11 @@
 ## Użyte technologie
 - C# - wersja 7.3
 - .NET Freamework - wersja 4.7.2
+
+
+## Zrzuty ekranu
+![Strona główna](./Zrzuty_ekranu/kalkulator_zd1.jpg)
+![Cennik](./Zrzuty_ekranu/kalkulator_zd2.jpg)
 
 
 ## Uruchomienie
