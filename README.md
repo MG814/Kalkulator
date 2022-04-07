@@ -20,8 +20,8 @@
 
 
 ## Zrzuty ekranu
-![Strona główna](./Zrzuty_ekranu/kalkulator_zd1.jpg)
-![Cennik](./Zrzuty_ekranu/kalkulator_zd2.jpg)
+![Zdjęcie_1](./Zrzuty_ekranu/kalkulator_zd1.jpg)
+![Zadjęcie_2](./Zrzuty_ekranu/kalkulator_zd2.jpg)
 
 
 ## Uruchomienie
