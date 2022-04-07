@@ -29,7 +29,7 @@ W celu uruchomienia aplikacji wystarczy pobrać paczkę i wejść w folder *bin*
 
 
 ## Status projektu
-Projekt będzie z czasem poprawiany, tak aby usprawnić jego działanie.
+Projekt narazie zawieszony, ale w przyszłości będzie poprawiany.
 
 
 ## Udoskonalenie projektu
