@@ -35,7 +35,7 @@ Projekt narazie zawieszony, ale w przyszłości będzie poprawiany.
 ## Udoskonalenie projektu
 
 Do poprawy:
-- Zmiana sposobu przyjmowania i wykonywania działań
+- Zmiana sposobu przyjmowania danych i wykonywania działań
 
 Do zrobienia:
 - Dodanie nowych funkcji matematycznych np. pierwiastkowanie, obliczanie kątów itp.
